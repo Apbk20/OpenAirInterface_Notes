@@ -1,0 +1,2 @@
+# OpenAirInterface_Notes
+My_notes_from_working with the OpenAirInterface
